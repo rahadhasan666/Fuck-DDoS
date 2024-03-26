@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://github.com/rahadhasan666/Fuck-DDoS/blob/main/Screenshot_2024-03-26_21_57_33.png alt="logo" width= height= />
+
 
 <h1>DDoS Attack</h1>
 <p>Only For Educational Purpose</p>
